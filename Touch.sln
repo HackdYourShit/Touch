@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touch", "Touch\Touch.csproj", "{3CF197DF-164F-48FF-B239-40E4BEFABA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscRoutines", "MiscRoutines\MiscRoutines.csproj", "{C60BF675-0013-4D55-8C1E-F9D5D0341B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{465DDF26-143A-4903-813A-6585175F0DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF197DF-164F-48FF-B239-40E4BEFABA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF197DF-164F-48FF-B239-40E4BEFABA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF197DF-164F-48FF-B239-40E4BEFABA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF197DF-164F-48FF-B239-40E4BEFABA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60BF675-0013-4D55-8C1E-F9D5D0341B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60BF675-0013-4D55-8C1E-F9D5D0341B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60BF675-0013-4D55-8C1E-F9D5D0341B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60BF675-0013-4D55-8C1E-F9D5D0341B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465DDF26-143A-4903-813A-6585175F0DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465DDF26-143A-4903-813A-6585175F0DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465DDF26-143A-4903-813A-6585175F0DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465DDF26-143A-4903-813A-6585175F0DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8F2540-7C69-4309-A0EB-3D8B834CC160}
+	EndGlobalSection
+EndGlobal
